@@ -1,6 +1,6 @@
 # PocketAuthor Acquisition Library
 
-The PocketAuthor Acquisition Library now contains **101 forward-facing pages** organized around the questions people actually search before, during, and after writing a book.
+The PocketAuthor Acquisition Library now contains **158 forward-facing pages** organized around the questions people actually search before, during, and after writing a book.
 
 The rule for every page is simple:
 
@@ -22,7 +22,7 @@ The rule for every page is simple:
 - [Bookstore Owners](personas/bookstore-owners.md)
 - [Literary Organizations](personas/literary-organizations.md)
 
-## Browse by profession — 20 pages
+## Browse by profession — 45 pages
 
 - [Lawyers](professions/lawyers.md)
 - [Doctors](professions/doctors.md)
@@ -45,7 +45,7 @@ The rule for every page is simple:
 - [Real Estate Professionals](professions/real-estate-professionals.md)
 - [Supply Chain Leaders](professions/supply-chain-leaders.md)
 
-## Browse by source material — 10 pages
+## Browse by source material — 12 pages
 
 - [YouTube Channel → Book](source-material/youtube-to-book.md)
 - [Interviews → Book](source-material/interviews-to-book.md)
@@ -85,7 +85,7 @@ Also see workflow pages for:
 - [Find Literary Events](workflows/find-literary-events.md)
 - [Book → Business Asset](workflows/book-to-business.md)
 
-## Browse by book archetype — 10 pages
+## Browse by book archetype — 15 pages
 
 - [Field Guide](book-archetypes/field-guide.md)
 - [Framework Book](book-archetypes/framework-book.md)
@@ -124,7 +124,7 @@ Also see workflow pages for:
 - [Professional Legacy](outcomes/professional-legacy.md)
 - [Community Building](outcomes/community-building.md)
 
-## Browse common author problems — 10 pages
+## Browse common author problems — 20 pages
 
 - [How Do I Choose a Book Topic?](problems/choose-book-topic.md)
 - [How Do I Know if My Book Idea Is Good?](problems/know-book-idea-is-good.md)
@@ -136,6 +136,25 @@ Also see workflow pages for:
 - [How Do I Protect Confidential Information?](problems/protect-confidential-information.md)
 - [How Do I Use AI Responsibly?](problems/use-ai-responsibly.md)
 - [How Do I Write Without Making Things Up?](problems/write-without-making-things-up.md)
+
+
+## Browse publishing mechanics — 15 pages
+
+- [ISBN](publishing/isbn.md)
+- [Book Metadata](publishing/book-metadata.md)
+- [EPUB](publishing/epub.md)
+- [Book Proposal](publishing/book-proposal.md)
+- [Query Letter](publishing/query-letter.md)
+- [Advance Reader Copy (ARC)](publishing/arc.md)
+- [Copyright Permissions](publishing/permissions.md)
+- [Book Cover](publishing/book-cover.md)
+- [Trim Size](publishing/trim-size.md)
+- [Amazon KDP vs. IngramSpark](publishing/kdp-vs-ingram.md)
+- [Audiobook Edition](publishing/audiobook.md)
+- [Translation Rights](publishing/translation-rights.md)
+- [Bulk & Corporate Sales](publishing/bulk-sales.md)
+- [Author Platform](publishing/author-platform.md)
+- [Book Launch Timeline](publishing/book-launch-timeline.md)
 
 ## Live PocketAuthor tools
 
