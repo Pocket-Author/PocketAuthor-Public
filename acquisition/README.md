@@ -1,6 +1,6 @@
 # PocketAuthor Acquisition Library
 
-The PocketAuthor Acquisition Library now contains **158 forward-facing pages** organized around the questions people actually search before, during, and after writing a book.
+The PocketAuthor Acquisition Library now contains **172 forward-facing pages** organized around the questions people actually search before, during, and after writing a book.
 
 The rule for every page is simple:
 
@@ -155,6 +155,23 @@ Also see workflow pages for:
 - [Bulk & Corporate Sales](publishing/bulk-sales.md)
 - [Author Platform](publishing/author-platform.md)
 - [Book Launch Timeline](publishing/book-launch-timeline.md)
+
+## Browse narrative themes — 14 pages
+
+- [A Book Is a Professional Asset](narratives/book-as-professional-asset.md)
+- [A Book as Reusable Intellectual Property](narratives/book-as-reusable-ip.md)
+- [One Manuscript, Many Editions](narratives/one-manuscript-many-editions.md)
+- [Build the Audience While You Build the Book](narratives/build-audience-while-writing.md)
+- [Keep the Thinking Connected](narratives/keep-thinking-connected.md)
+- [Show the Transformation, Not the Hype](narratives/proof-before-hype.md)
+- [Publishing Is Not One Button](narratives/publishing-is-not-one-button.md)
+- [Keep Human Approval Visible](narratives/human-approval-visible.md)
+- [Source-Aware Writing](narratives/source-aware-writing.md)
+- [Writing and Publishing Is Not One Skill](narratives/book-skills-not-one-checklist.md)
+- [A Book Launch Is a System](narratives/launch-is-a-system.md)
+- [Give Every Piece of Content One Job](narratives/content-one-job.md)
+- [A Finished Book Starts With a Reader Promise](narratives/reader-promise-first.md)
+- [Progress Is Better Proof Than Hype](narratives/progress-is-proof.md)
 
 ## Live PocketAuthor tools
 
