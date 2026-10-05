@@ -531,6 +531,26 @@ The public repo now also includes reusable homepage, persona, feature, CTA, and 
 
 ---
 
+# Acquisition library
+
+PocketAuthor now has a dedicated public acquisition library for high-intent search and persona-specific discovery.
+
+It is organized around two entry points:
+
+### By persona
+Founders, consultants, coaches, creators, researchers, educators, memoir authors, ghostwriters, editors, publishers, literary agents, bookstore owners, and literary organizations.
+
+### By workflow
+Podcast-to-book, newsletter-to-book, notes-to-book, research-to-book, course-to-book, book-to-course, publisher discovery, book grants, manuscript preparation, book teams, book types, idea validation, outlines, fact checking, bookstores, literary events, and book-to-business.
+
+[Explore the full acquisition library →](acquisition/README.md)
+
+The core rule for these pages is:
+
+**answer the reader's real question first, then show the relevant PocketAuthor workflow.**
+
+---
+
 # Public documentation
 
 ## Product and positioning
