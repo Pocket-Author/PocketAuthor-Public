@@ -402,6 +402,51 @@ Each chapter can become:
 
 ---
 
+# Explore the live PocketAuthor ecosystem
+
+The public product already includes useful surfaces beyond the manuscript editor.
+
+### Write, research, and publish
+- [PocketAuthor home](https://www.pocketauthor.com/) — write the book, prepare every edition, and publish with confidence
+- [Features](https://www.pocketauthor.com/features) — book writing, research, revision, provenance, production, and distribution
+- [How to publish a book](https://www.pocketauthor.com/how-to-publish) — a practical path from manuscript to ebook, paperback, hardcover, metadata, proofs, and release
+- [Author guides](https://www.pocketauthor.com/guides) — practical writing and publishing guides
+- [Book Skills Library](https://www.pocketauthor.com/skills) — hundreds of practical workflows for writing, editing, research, publishing, marketing, accessibility, and professional book work
+
+### Find opportunities around your book
+- [Writing grants & author funding](https://www.pocketauthor.com/grants) — grants, residencies, translation support, research funding, and literary opportunities
+- [Literary events](https://www.pocketauthor.com/events) — book fairs, author talks, workshops, conferences, poetry events, and publishing opportunities
+- [Publisher directory](https://www.pocketauthor.com/publisher-directory) — research publishers by focus and location and build a submission shortlist
+
+### Find the book you should write
+- [Book ideas by profession](https://www.pocketauthor.com/profession) — discover book ideas from your existing professional knowledge
+- [Book types](https://www.pocketauthor.com/book-types) — explore nonfiction formats, structures, and book archetypes
+- [Professional guides](https://www.pocketauthor.com/professional-guides) — role-specific author and publishing guidance
+- [Book professionals](https://www.pocketauthor.com/book-professionals) — explore the people and roles around a professional book
+
+### Prepare for readers
+- [Publishing calculators](https://www.pocketauthor.com/calculators) — practical planning tools for book production
+- [Copyright & permissions](https://www.pocketauthor.com/copyright) — ownership, permissions, and infringement information
+- [FAQ](https://www.pocketauthor.com/faq)
+- [Support](https://www.pocketauthor.com/support)
+
+### Discover more
+- [PocketAuthor blog](https://www.pocketauthor.com/blog)
+- [Marketplace](https://www.pocketauthor.com/marketplace)
+- [Organizations](https://www.pocketauthor.com/organizations)
+- [Stores](https://www.pocketauthor.com/stores)
+- [Trends](https://www.pocketauthor.com/trends)
+- [Podcast](https://www.pocketauthor.com/podcast)
+
+PocketAuthor is increasingly becoming an **author ecosystem**, not only a place to type:
+
+**make the book → make it trustworthy → make it publishable → find the people, funding, events, and readers around it**
+
+[Explore PocketAuthor in detail →](docs/EXPLORE-POCKETAUTHOR.md)  
+[SEO narrative library →](docs/SEO-NARRATIVES.md)
+
+---
+
 # Public documentation
 
 ## Product and positioning
