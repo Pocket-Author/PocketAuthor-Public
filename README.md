@@ -533,7 +533,7 @@ The public repo now also includes reusable homepage, persona, feature, CTA, and 
 
 # Acquisition library
 
-PocketAuthor now has a dedicated public acquisition library with **101 forward-facing pages** covering personas, professions, source material, workflows, book archetypes, comparisons, outcomes, and common author problems.
+PocketAuthor now has a dedicated public acquisition library with **158 forward-facing pages** covering personas, professions, source material, workflows, book archetypes, comparisons, outcomes, and common author problems.
 
 It is organized around two entry points:
 
