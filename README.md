@@ -447,6 +447,90 @@ PocketAuthor is increasingly becoming an **author ecosystem**, not only a place 
 
 ---
 
+# Persona-specific positioning
+
+PocketAuthor should not sound identical to every audience.
+
+A founder, researcher, ghostwriter, bookstore owner, editor, and educator all enter the book ecosystem with different problems.
+
+The public marketing system now includes dedicated messaging for:
+
+- founders
+- consultants and coaches
+- creators
+- researchers
+- educators
+- memoir and legacy authors
+- ghostwriters
+- editors
+- publishers and small presses
+- literary agents and rights professionals
+- bookstore owners
+- literary organizations
+
+[Persona messaging library →](docs/PERSONAS.md)
+
+---
+
+# Feature stories, not feature lists
+
+PocketAuthor has many features, but the strongest public narrative is not “we have a lot of tools.”
+
+It is:
+
+**Discover the book → build it → verify it → assemble the right team → prepare editions → find funding and publishers → show up where readers gather → keep expanding the book after launch.**
+
+Key outward-facing product stories include:
+
+- [Turn existing content and expertise into a book](https://www.pocketauthor.com/source-material)
+- [Explore your Book Opportunity](https://www.pocketauthor.com/opportunities)
+- [Choose a book type](https://www.pocketauthor.com/book-types)
+- [Explore book ideas by profession](https://www.pocketauthor.com/profession)
+- [Ghostwriting Studio](https://www.pocketauthor.com/ghostwriting)
+- [Build your book team](https://www.pocketauthor.com/book-professionals)
+- [Book Skills Library](https://www.pocketauthor.com/skills)
+- [Find author funding](https://www.pocketauthor.com/grants)
+- [Find literary events](https://www.pocketauthor.com/events)
+- [Find book clubs](https://www.pocketauthor.com/book-clubs)
+- [Explore literary organizations](https://www.pocketauthor.com/organizations)
+- [Find bookstores](https://www.pocketauthor.com/stores)
+- [Research publishers](https://www.pocketauthor.com/publisher-directory)
+- [Learn how to publish](https://www.pocketauthor.com/how-to-publish)
+- [Explore the rights network](https://www.pocketauthor.com/rights-network)
+- [Cover & EPUB Studio](https://www.pocketauthor.com/cover-studio)
+- [Book & Course Studio](https://www.pocketauthor.com/course-studio)
+- [Production cockpit](https://www.pocketauthor.com/production)
+
+[Feature narrative library →](docs/FEATURE-NARRATIVES.md)
+
+---
+
+# Friendly answers to common objections
+
+PocketAuthor should directly answer questions like:
+
+- Why not just use ChatGPT?
+- What if I do not want AI writing my book?
+- What if I already have an editor or ghostwriter?
+- What if I do not know what book to write?
+- How do I find a publisher?
+- Can I find grants?
+- Who owns my manuscript?
+- Will PocketAuthor get me into bookstores?
+- Does PocketAuthor guarantee sales?
+
+[Objection handling library →](docs/OBJECTIONS.md)
+
+---
+
+# Forward-facing copy library
+
+The public repo now also includes reusable homepage, persona, feature, CTA, and short-description copy.
+
+[Front-facing marketing copy →](docs/FRONT-FACING-COPY.md)
+
+---
+
 # Public documentation
 
 ## Product and positioning
