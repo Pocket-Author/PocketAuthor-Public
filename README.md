@@ -551,6 +551,31 @@ The core rule for these pages is:
 
 ---
 
+# Full-copy marketing library
+
+The public repo now includes a dedicated library of complete long-form PocketAuthor copy—not only briefs, hooks, and outlines.
+
+Current full-copy themes include:
+
+- from body of work to book
+- expertise vs. owning a body of work
+- authors need operating systems, not blank pages
+- manuscript vs. finished book
+- publishing as a chain of decisions
+- one manuscript, many editions
+- source provenance
+- responsible AI and visible human approval
+- books beyond bestseller economics
+- books as business-development systems
+- books as reusable intellectual property
+- building the audience while writing
+- reader promise first
+- proof through visible progress
+
+[Explore the full-copy marketing library →](full-copy/README.md)
+
+---
+
 # Public documentation
 
 ## Product and positioning
