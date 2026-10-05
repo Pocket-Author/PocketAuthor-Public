@@ -1,219 +1,512 @@
 # PocketAuthor
 
-**Turn your expertise into a published book.**
+## From body of work to book.
 
-PocketAuthor is an AI-assisted authoring platform for founders, experts, creators, researchers, educators, coaches, and teams who want to turn ideas, notes, interviews, research, and lived experience into structured, publishable books.
+**Turn years of expertise, research, notes, talks, interviews, and lived experience into a finished book — then turn that book into a durable intellectual asset.**
 
-PocketAuthor is built around the entire author journey — from idea and outline to research, drafting, editing, source review, formatting, publishing, distribution, and promotion.
+PocketAuthor is an AI-assisted authoring and book-production platform for founders, experts, creators, researchers, educators, consultants, and publishing professionals.
 
-> The goal is not to replace the author. The goal is to give authors better infrastructure.
+We are building around the complete transformation:
 
-## What PocketAuthor helps you do
+**source material → Book Blueprint → outline → research → manuscript → editing → provenance → publishing readiness → distribution → launch → book-to-business**
 
-- Turn an idea, framework, career, company journey, or body of expertise into a book
-- Build and refine a book outline
-- Draft chapter-by-chapter with long-form continuity
-- Import and work from notes, transcripts, interviews, research, and existing writing
-- Preserve author voice while using AI for structure, expansion, editing, and iteration
-- Track sources, quotations, attribution, provenance, and copyright concerns
-- Fact-check and strengthen claims
-- Prepare manuscripts for publishing
-- Plan distribution, launch, audience-building, and author marketing
-- Collaborate with editors, researchers, co-authors, and teams
+> AI should make the work around authorship easier — not make authorship less meaningful.
 
-## Who PocketAuthor is for
+[Website](https://pocketauthor.com) · [Public roadmap](docs/ROADMAP.md) · [Marketing & positioning](docs/POSITIONING.md) · [Open issues](https://github.com/Pocket-Author/PocketAuthor-Public/issues)
 
-### Founders
-Turn years of company-building lessons, product thinking, failures, frameworks, and industry knowledge into a durable book.
+---
 
-### Experts and professionals
-Turn specialized knowledge into an accessible manuscript that can educate an industry, support a career, or establish a body of work.
+## Your book may already exist in pieces
 
-### Creators
-Transform fragmented posts, newsletters, videos, talks, podcasts, and audience insights into a structured long-form book.
+You may not need more ideas.
 
-### Researchers
-Organize research, notes, sources, interviews, and complex ideas into a coherent book for a broader audience.
+You may need a better way to see the work you have already done.
 
-### Coaches and consultants
-Turn repeatable frameworks, client lessons, methodologies, and domain expertise into a clear book.
+Your raw material could already be sitting inside:
 
-### Educators and community organizations
-Create practical guides, educational books, institutional histories, field reports, collaborative books, and public knowledge resources.
+- notes
+- client work
+- internal memos
+- research
+- slide decks
+- podcast appearances
+- YouTube transcripts
+- newsletters
+- talks
+- interviews
+- field experience
+- company history
+- frameworks
+- years of questions people keep asking you
 
-## Why a dedicated authoring platform?
+A book often starts long before someone decides to become an author.
 
-Generic AI chatbots can generate text. Writing a serious book requires much more:
+PocketAuthor helps find the book inside that body of work.
 
-- book-scale structure and continuity
-- project-specific context
-- research and source management
-- author voice and editorial control
-- developmental editing
-- revision workflows
-- chapter-to-chapter consistency
-- copyright and attribution awareness
-- publishing preparation
-- distribution and marketing workflows
-- collaboration and accountability
+---
 
-PocketAuthor is designed around those workflows.
+## What PocketAuthor is building
 
-## The PocketAuthor workflow
+### Discover the book
 
-1. **Idea → thesis** — define the core promise, audience, argument, and reason the book should exist.
-2. **Outline** — turn the thesis into a useful chapter structure.
-3. **Research & sources** — collect notes, references, interviews, evidence, stories, and primary sources.
-4. **Drafting** — write chapter by chapter with continuity across the manuscript.
-5. **Editing & voice** — strengthen structure, clarity, tone, pacing, and author voice.
-6. **Fact-checking** — identify unsupported claims and weak evidence.
-7. **Copyright & attribution review** — inspect quotations, paraphrases, source provenance, permissions, and originality risks.
-8. **Formatting** — prepare a manuscript for its intended publishing formats.
-9. **Publishing** — prepare metadata, descriptions, assets, and publication workflows.
-10. **Distribution & marketing** — help the book reach the right audience.
+Start with existing work rather than a blank page.
 
-See the full workflow plan in [Issue #5](https://github.com/Pocket-Author/PocketAuthor-Public/issues/5).
+Identify:
 
-## Responsible AI authoring
+- the strongest book concept
+- the reader
+- the problem
+- the promise
+- the author's unique perspective
+- the source material already available
+- the research still missing
 
-PocketAuthor is being built around a simple principle: **AI should strengthen authorship, not obscure it.**
+### Create a Book Blueprint
 
-That includes better support for:
+Turn the concept into:
+
+- thesis
+- reader profile
+- promise
+- chapter architecture
+- source map
+- interview plan
+- research gaps
+- initial production strategy
+
+### Build the manuscript
+
+Move from outline to chapters while keeping:
+
+- project-level context
+- author voice
+- source material
+- research
+- interviews
+- editorial notes
+- revisions
+- chapter continuity
+
+connected.
+
+### Review evidence and provenance
+
+A serious book needs more than fluent prose.
+
+PocketAuthor's product direction includes:
 
 - source tracking
+- quotations
 - attribution
-- quotation review
-- originality
+- primary-source workflows
 - fact checking
-- research notes
-- author approval
-- human editorial responsibility
-- copyright risk awareness
-- primary-source research and interviews
+- claim review
+- copyright awareness
+- permissions
+- provenance
+- human author approval
 
-See [Issue #11](https://github.com/Pocket-Author/PocketAuthor-Public/issues/11).
+### Prepare for publication
 
-## Use cases
+A finished draft is not automatically a publish-ready book.
 
-PocketAuthor can support projects such as:
+Publishing readiness includes:
 
-- a founder turning startup lessons into a business book
-- a researcher translating years of work into an accessible public book
-- a creator expanding fragmented content into a durable manuscript
-- a coach turning a framework into a practical guide
-- an executive documenting leadership lessons
-- a nonprofit preserving field knowledge
-- a technical expert creating an industry handbook
-- a community producing a collaborative book
+- editing
+- proofing
+- references
+- permissions
+- metadata
+- ISBN decisions
+- cover
+- print files
+- ebook files
+- formatting
+- production review
 
-See [Issue #10](https://github.com/Pocket-Author/PocketAuthor-Public/issues/10).
+### Distribute and expand
 
-## Public roadmap
+The book can then become:
 
-This repository is the public-facing PocketAuthor documentation and roadmap surface. It is not necessarily the full proprietary application codebase.
+- a workshop
+- keynote
+- course
+- consulting framework
+- client-education asset
+- newsletter source
+- podcast topic engine
+- community
+- corporate training resource
+- bulk-sales offer
+- translation
+- new edition
+- next title
 
-Public roadmap areas include:
+The manuscript is not the end of the system.
 
-- Writing & editor
-- Research & sources
-- AI assistance
-- Copyright & provenance
-- Publishing
-- Distribution
-- Marketing
-- Collaboration
-- Imports & exports
-- Accessibility
-- Mobile
-- Community & events
-- Developer integrations
+---
 
-Browse the [public issues](https://github.com/Pocket-Author/PocketAuthor-Public/issues).
+# Who PocketAuthor is for
 
-## Current public documentation
+## Founders
+
+**A founder's archive is often an unwritten book.**
+
+The company story itself may not be the book.
+
+The hard-earned framework inside that story might be.
+
+PocketAuthor can help founders turn product decisions, market lessons, research, talks, memos, failures, operating principles, and category insight into a durable book.
+
+[Read PocketAuthor for Founders →](docs/for-founders.md)
+
+## Experts and professionals
+
+You may already have a book hiding in your client work, presentations, research, workshops, and professional frameworks.
+
+PocketAuthor helps turn accumulated expertise into a structured book that can teach, establish authority, support speaking, or preserve a body of work.
+
+[Read PocketAuthor for Experts →](docs/for-experts.md)
+
+## Creators
+
+Your feed is fragmented by design.
+
+A book rewards coherence.
+
+PocketAuthor can help transform podcasts, newsletters, videos, essays, and years of audience interaction into one durable argument.
+
+[Read PocketAuthor for Creators →](docs/for-creators.md)
+
+## Researchers
+
+Move from papers, field notes, datasets, interviews, and literature to a public-facing book without abandoning evidence, provenance, uncertainty, or citation discipline.
+
+[Read PocketAuthor for Researchers →](docs/for-researchers.md)
+
+## Coaches and consultants
+
+Turn repeatable frameworks, exercises, methodologies, and carefully reviewed client lessons into a book that can support workshops, teaching, and professional growth.
+
+[Read PocketAuthor for Coaches & Consultants →](docs/for-coaches-consultants.md)
+
+## Educators
+
+Turn courses, lectures, curriculum, exercises, and years of teaching into durable learning resources.
+
+[Read PocketAuthor for Educators →](docs/for-educators.md)
+
+## Editors, ghostwriters, and publishers
+
+PocketAuthor can also become delivery infrastructure for professional book makers: source libraries, milestones, author approvals, editorial handoffs, publishing readiness, and repeat-title workflows.
+
+[Read Partner Positioning →](docs/PARTNERS.md)
+
+---
+
+# Why not just use a chatbot?
+
+Generic AI chat can generate text.
+
+A book is a system.
+
+A serious book may require:
+
+- tens of thousands of words of continuity
+- a thesis and reader journey
+- hundreds of source relationships
+- interviews
+- fact checking
+- revision history
+- permissions
+- editorial collaboration
+- production
+- metadata
+- distribution
+- launch assets
+- rights
+- future editions
+
+PocketAuthor is designed around the book project rather than the isolated prompt.
+
+[Why PocketAuthor →](docs/WHY-POCKETAUTHOR.md)
+
+---
+
+# The author workflow
+
+1. [Idea → thesis](docs/workflow/01-idea-to-thesis.md)
+2. [Build the outline](docs/workflow/02-outline.md)
+3. [Research and sources](docs/workflow/03-research-and-sources.md)
+4. [Drafting](docs/workflow/04-drafting.md)
+5. [Editing and voice](docs/workflow/05-editing-and-voice.md)
+6. [Fact checking](docs/workflow/06-fact-checking.md)
+7. [Copyright and attribution](docs/workflow/07-copyright-and-attribution.md)
+8. [Formatting and production](docs/workflow/08-formatting.md)
+9. [Publishing](docs/workflow/09-publishing.md)
+10. [Distribution and marketing](docs/workflow/10-distribution-and-marketing.md)
+
+---
+
+# Marketing thesis
+
+## From body of work to book.
+
+PocketAuthor should not be marketed primarily as an AI text generator.
+
+The product exists to help a person cross a much more valuable gap:
+
+**scattered knowledge → coherent book → professional production → distribution → durable author asset**
+
+### Marketing hooks
+
+- You may already have a book hiding in your notes, talks, and client work.
+- A founder's archive is often an unwritten book.
+- Your book should not start from a blank page. It should start from your body of work.
+- Stop leaving your best frameworks trapped in slide decks.
+- AI can generate words. It cannot take responsibility for your book.
+- Finished manuscript does not mean publish-ready book.
+- The manuscript is only one part of the author workload.
+- The feed rewards fragments. Books reward coherence.
+- Your book should keep working after launch week.
+- The book is not the business model. It can become infrastructure for one.
+
+[Full marketing system →](docs/MARKETING.md)  
+[Campaign library →](docs/CAMPAIGNS.md)  
+[Copy bank →](docs/COPY-BANK.md)  
+[Social copy →](docs/SOCIAL-COPY.md)  
+[Landing-page copy →](docs/LANDING-PAGE-COPY.md)
+
+---
+
+# The Book Potential funnel
+
+PocketAuthor's public product narrative can move prospective authors through six questions.
+
+| Stage | Question | Useful next step |
+| --- | --- | --- |
+| Discover | Is there a book in my work? | Book Potential Assessment |
+| Understand | What would my book be? | Book Blueprint |
+| Trust | Can this become professional? | workflow demo / sample / sourced guide |
+| Build | Can I finish? | active manuscript |
+| Publish | Are my files ready? | publishing-readiness workflow |
+| Expand | What comes after one book? | book-to-business / next title |
+
+Potential lead assets include:
+
+- Book Potential Assessment
+- five-notes-to-three-book-ideas exercise
+- Book Blueprint sample
+- source-to-outline walkthrough
+- "Find the book inside your body of work" workshop
+- manuscript-readiness checklist
+- publishing-cost calculator
+- book ROI framework
+- responsible AI authorship guide
+
+---
+
+# Responsible AI authoring
+
+PocketAuthor is being built around a simple principle:
+
+## AI should strengthen authorship, not obscure it.
+
+That means making it easier to ask:
+
+- Where did this claim come from?
+- What needs verification?
+- What is a quotation?
+- What is the author's direct experience?
+- What came from an interview?
+- What needs attribution?
+- What may require permission?
+- What did the author approve?
+- What did AI suggest that still needs human review?
+
+We do not believe responsible AI publishing means pretending AI was never used.
+
+We believe it means preserving authorship, provenance, judgment, and accountability while using automation intelligently.
+
+[Responsible Authoring Guide →](docs/RESPONSIBLE-AUTHORING.md)
+
+---
+
+# Publishing readiness
+
+**"The draft is finished" and "the book is ready to publish" are different milestones.**
+
+PocketAuthor's publishing direction includes helping authors understand and manage:
+
+- structural completion
+- final editing
+- proofing
+- source review
+- quotation review
+- permissions
+- metadata
+- categories
+- keywords
+- ISBN strategy
+- cover assets
+- print layout
+- ebook files
+- proof copies
+- distribution setup
+
+[Publishing Readiness Guide →](docs/PUBLISHING-READINESS.md)
+
+---
+
+# Distribution
+
+Possible distribution paths include:
+
+- Amazon KDP
+- IngramSpark
+- direct website/store sales
+- bulk and corporate sales
+- course/community bundles
+- audiobook channels
+- international editions
+- translation editions
+
+Distribution availability does not guarantee discovery, bookstore placement, retailer acceptance, or sales.
+
+[Distribution Guide →](docs/DISTRIBUTION.md)
+
+---
+
+# Book to business
+
+For some authors, the book itself is only one asset.
+
+A strong book can become the source material for:
+
+**book → authority → audience → opportunities → new knowledge → next edition/title**
+
+Each chapter can become:
+
+- an essay
+- newsletter
+- social series
+- podcast pitch
+- webinar
+- workshop
+- training module
+- course lesson
+- speaking abstract
+- sales-enablement resource
+
+[Book-to-Business Guide →](docs/BOOK-TO-BUSINESS.md)
+
+---
+
+# Public documentation
+
+## Product and positioning
 
 - [About PocketAuthor](docs/ABOUT.md)
 - [Why PocketAuthor](docs/WHY-POCKETAUTHOR.md)
+- [Positioning](docs/POSITIONING.md)
+- [Public roadmap](docs/ROADMAP.md)
 - [Use cases](docs/USE-CASES.md)
-- [Responsible authoring](docs/RESPONSIBLE-AUTHORING.md)
 - [FAQ](docs/FAQ.md)
-- [Roadmap](docs/ROADMAP.md)
-- [Links](docs/LINKS.md)
-- [Glossary](docs/GLOSSARY.md)
+
+## Marketing
+
+- [Marketing system](docs/MARKETING.md)
+- [Campaign library](docs/CAMPAIGNS.md)
+- [Marketing copy bank](docs/COPY-BANK.md)
+- [Social copy library](docs/SOCIAL-COPY.md)
+- [Landing-page copy](docs/LANDING-PAGE-COPY.md)
+- [Book-to-business](docs/BOOK-TO-BUSINESS.md)
+
+## Publishing
+
+- [Responsible authoring](docs/RESPONSIBLE-AUTHORING.md)
+- [Publishing readiness](docs/PUBLISHING-READINESS.md)
+- [Distribution](docs/DISTRIBUTION.md)
+- [Publishing glossary](docs/GLOSSARY.md)
+
+## Audiences
+
+- [Founders](docs/for-founders.md)
+- [Experts](docs/for-experts.md)
+- [Creators](docs/for-creators.md)
+- [Researchers](docs/for-researchers.md)
+- [Coaches & consultants](docs/for-coaches-consultants.md)
+- [Educators](docs/for-educators.md)
+- [Editors, ghostwriters & publishers](docs/PARTNERS.md)
+
+## Community
+
 - [Community](docs/COMMUNITY.md)
 - [Contributing](CONTRIBUTING.md)
+- [Public issues](https://github.com/Pocket-Author/PocketAuthor-Public/issues)
 
-## Frequently asked questions
+---
 
-### What is PocketAuthor?
-PocketAuthor is an AI-assisted book authoring platform focused on the full workflow of turning expertise, research, notes, interviews, and ideas into structured, publishable books.
+# Search topics
 
-### Is PocketAuthor just an AI book generator?
-No. The product is designed around book-scale projects, editorial workflows, research, source handling, author voice, revision, publishing, and distribution rather than one-shot text generation.
+This repository is designed to become a useful public resource for topics including:
 
-### Can AI help me write a book without replacing my voice?
-That is a core design goal. AI can assist with structure, drafting, synthesis, rewriting, research organization, and editorial feedback while the author remains responsible for the ideas, decisions, voice, and final manuscript.
-
-### Can PocketAuthor help with nonfiction research?
-Yes. Research workflows, source tracking, interview material, fact checking, citation support, and provenance are major parts of the product direction.
-
-### Does PocketAuthor help with copyright?
-PocketAuthor is being designed to help authors notice and manage copyright-related risk, source provenance, quotations, paraphrasing, attribution, and remediation workflows. It does not replace legal advice.
-
-### Who owns the final book?
-Authors should retain clear control over their work. Product-specific ownership terms and policies should always be reviewed in the current PocketAuthor terms before publication.
-
-### How fast can someone write a book?
-That depends on the project, source material, author availability, research burden, editing needs, and publishing goals. PocketAuthor is designed to compress the workflow significantly without pretending that high-quality books are one-click outputs.
-
-## Search topics this repo covers
-
-PocketAuthor documentation is intended to be useful for people researching:
-
-- AI book writing platforms
-- how to write a book with AI
-- nonfiction book writing software
+- AI book writing
+- AI authoring platform
+- book writing software
+- how to write a book from existing content
+- turn expertise into a book
 - founder book writing
-- expert-to-author workflows
-- manuscript editing with AI
-- book research assistants
+- expert book writing
+- consultant book writing
+- researcher book writing
+- AI manuscript editor
 - source-aware AI writing
+- responsible AI authorship
 - copyright-aware AI writing
-- collaborative authoring
-- book publishing workflows
-- book distribution tools
-- author marketing tools
+- book outline software
+- book research workflow
+- manuscript readiness
+- self-publishing workflow
+- KDP publishing
+- IngramSpark
+- book distribution
+- author marketing
+- book launch planning
+- book-to-business strategy
+- ghostwriter workflow
+- editor collaboration
+- publishing provenance
 
-## Social and official links
+---
 
-The canonical public link directory is maintained in [docs/LINKS.md](docs/LINKS.md).
+# Public roadmap
 
-Known public destinations:
+This repository is the public-facing documentation and roadmap surface for PocketAuthor.
+
+It does **not** necessarily contain the full proprietary application codebase.
+
+Browse:
+
+- [Roadmap](docs/ROADMAP.md)
+- [Issues](https://github.com/Pocket-Author/PocketAuthor-Public/issues)
+- [Contributing](CONTRIBUTING.md)
+
+Do not place private manuscripts, credentials, unpublished confidential material, personal information, or sensitive research into public GitHub issues.
+
+---
+
+# Official links
 
 - Website: https://pocketauthor.com
 - GitHub organization: https://github.com/Pocket-Author
 - Public repository: https://github.com/Pocket-Author/PocketAuthor-Public
+- Public issues: https://github.com/Pocket-Author/PocketAuthor-Public/issues
 
-Additional official social, community, event, support, privacy, and terms links should be added only after they are verified.
+See [docs/LINKS.md](docs/LINKS.md) for the maintained canonical link directory.
 
-## Contributing and feedback
+---
 
-We welcome public feedback on documentation, product ideas, accessibility, integrations, publishing workflows, research workflows, and author needs.
+## PocketAuthor
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening an issue.
-
-**Do not post private manuscripts, unpublished confidential material, credentials, personal data, or sensitive source material in public GitHub issues.**
-
-## Brand reference
-
-**PocketAuthor** is the preferred spelling.
-
-Short description:
-
-> PocketAuthor helps founders, experts, creators, researchers, and educators turn their expertise into structured, publishable books using AI-assisted authoring workflows built around research, editing, provenance, publishing, and distribution.
-
-## Follow development
-
-- [Public issues](https://github.com/Pocket-Author/PocketAuthor-Public/issues)
-- [Public roadmap](docs/ROADMAP.md)
-- [Contributing](CONTRIBUTING.md)
+**Turn your expertise into a book that can outlast the feed.**
