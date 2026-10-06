@@ -576,6 +576,29 @@ Current full-copy themes include:
 
 ---
 
+# Marketing asset library
+
+The public repo now also includes a reusable marketing execution library covering:
+
+- nurture email
+- social posts
+- Reels / TikTok / Shorts
+- carousels
+- paid social
+- workshops
+- lead magnets
+- event follow-up
+- partner outreach
+- referral copy
+- homepage and landing-page variants
+- case-study structure
+- persona campaign packs
+- campaign measurement
+
+[Explore the marketing asset library →](marketing-assets/README.md)
+
+---
+
 # Public documentation
 
 ## Product and positioning
